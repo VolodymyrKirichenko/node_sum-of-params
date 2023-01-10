@@ -21,4 +21,3 @@ function calculation(action, array) {
 }
 
 calculation(operation, args);
-console.log(calculation(operation, args));
